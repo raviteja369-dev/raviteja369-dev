@@ -89,7 +89,7 @@ I'm a Computer Science Engineering undergraduate specializing in Artificial Inte
 ## 🎓 Education
 
 **Bennett University** · Greater Noida, India  
-B.Tech. in Computer Science Engineering, Artificial Intelligence Specialization · **GPA: 8.08/10**  
+B.Tech. in Computer Science Engineering, Artificial Intelligence Specialization  
 *2023 - 2027*
 
 ---
