@@ -16,6 +16,9 @@
   <a href="mailto:akularaviteja2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://ravi-teja-portfolio-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -128,7 +131,8 @@ B.Tech. in Computer Science Engineering, Artificial Intelligence Specialization
 <p align="left">
   <a href="mailto:akularaviteja2004@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/akula-ravi-teja-66ab00288">LinkedIn</a> ·
-  <a href="https://github.com/raviteja369-dev">GitHub</a>
+  <a href="https://github.com/raviteja369-dev">GitHub</a> ·
+  <a href="https://ravi-teja-portfolio-beta.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center">
